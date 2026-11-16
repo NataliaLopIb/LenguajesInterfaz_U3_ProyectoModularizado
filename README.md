@@ -8,10 +8,9 @@ Programa de consola en ensamblador x86 de 32 bits (MASM) con Irvine32. Version d
 ## Estructura del repositorio
 | Ruta | Contenido |
 |---|---|
-| `ProyectoVS/` | Proyecto de Visual Studio: `main.asm` |
 | `catalogo.dat` | Inventario de prueba (binario, 440 bytes, 4 productos) |
 | `catalogo.txt` | El mismo inventario en texto legible (solo para consultar) |
-| `main_U2.asm` | Version de la Unidad 2 (para la comparacion antes/despues) |
+| `main.asm` | Version de la Unidad 2 (para la comparacion antes/despues) |
 | `Informe.md` | Reporte con la seccion "Version de la Unidad 3" |
 
 ## Compilacion (Visual Studio 2022 + plantilla Irvine32 de la clase)
